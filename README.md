@@ -1,6 +1,6 @@
 ## About Me
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=YGYoghurt&show_icons=true&theme=radical" width="380">
-
+CTFer | CTF Author| Security Researcher | Developer | Vtuber
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudio2019-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)

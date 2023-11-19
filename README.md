@@ -1,5 +1,8 @@
 ## About Me
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=YGYoghurt&show_icons=true&theme=radical" width="380">
+```
+你好啊，我叫探姬，ID @ Yoghurt / YGYoghurt
+```
 - CTFer | CTF Author| Security Researcher | Developer | Vtuber
 - Major in CyberSecurity
 ## My Projects

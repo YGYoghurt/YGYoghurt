@@ -1,6 +1,6 @@
 # Yoghurt
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows10-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
+![](https://img.shields.io/badge/OS-Windows11-informational?style=flat&logo=Windows&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudio2019-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudio2022-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
 ![](https://img.shields.io/badge/Editor-VisualStudioCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=00FFFF)
